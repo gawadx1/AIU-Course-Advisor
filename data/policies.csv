@@ -1,0 +1,6 @@
+﻿PolicyName,Description,Condition,Value,AdditionalInfo
+MaxCreditHours,Maximum allowed credit hours per semester,CGPA>=3.0,22,Extra fees for hours above 20
+MaxCreditHours,Maximum allowed credit hours per semester,2.0<=CGPA<3.0,20,No extra fees
+MaxCreditHours,Maximum allowed credit hours per semester,CGPA<2.0,12,Half load restriction
+FailedCourse,Re-register failed courses,FailedCourse=True,,Priority
+ MinSemester,Minimum semester for advanced courses,Semester>=5,,Allow

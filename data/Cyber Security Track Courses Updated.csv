@@ -1,0 +1,41 @@
+CourseCode,CourseName,Description,Prerequisites,CreditHours,semester,level
+MAT111,Mathematics I,Introduces fundamental mathematical,,3,FALL,1
+MAT123,Mechanics,Covers the principles of classical mechanics,,3,FALL,1
+MEC011,Engineering Drawing (1),Teaches the basics of technical drawing,,3,FALL,1
+PHY212,Introduction to Engineering Physics,Explores core physics concepts like mechanics,,3,FALL,1
+CSE014,Structured Programming,Introduces programming fundamentals using structured approaches,,3,FALL,1
+MAT112,Mathematics II,"covering advanced topics such as multivariable calculus, differential equations",MAT111,3,SPRING,2
+MAT131,Probability & Statistics I,Provides an introduction to probability theory,,3,SPRING,2
+CSE015,Object Oriented Programming,Teaches programming using object-oriented principles,CSE014,3,SPRING,2
+CSE315,Discrete Mathematics,"Covers mathematical structures like sets, logic, graph theory, and combinatorics",,3,SPRING,2
+MAT212,Linear Algebra,Fundamentals of linear algebra,,3,FALL,3
+CSE111,Data Structures,Fundamentals of data organization,CSE015,3,FALL,3
+CSE113,Electric & Electronic Circuits,Basic circuits for engineers,PHY212,3,FALL,3
+CSE131,Logic Design,Fundamentals of logic circuits,,3,FALL,3
+MAT231,Probability & Statistics II,Advanced probability and statistics,MAT131,3,SPRING,4
+MAT312,Differential Equations,Study of differential equations,MAT112,3,SPRING,4
+AIE111,Artificial Intelligence,Covers Artificial Intelligence basics,CSE015,3,SPRING,4
+CSE132,Computer Architecture & Organization,Computer system architecture,CSE131,3,SPRING,4
+CSE221,Database Systems,Managing and querying databases,CSE111,3,FALL,5
+CSE233,Operating Systems,Core concepts of OS,CSE111,3,FALL,5
+AIE121,Machine Learning,study Machine Learning basics,AIE111,3,FALL,5
+CSE291,Field Training 1 in Computer Engineering,Practical training in computer engineering,,2,FALL,5
+CSE112,Design & Analysis of Algorithms,Algorithm design techniques,CSE111,4,SPRING,6
+CSE211,Web Programming,study Web Programming from zero ,CSE015,3,SPRING,6
+CSE251,Software Engineering,Software development lifecycle,CSE015,3,SPRING,6
+CSE261,Computer Networks,Networking concepts,CSE132,3,SPRING,6
+CSE234,Embedded Systems,Programming embedded devices,CSE132,3,SPRING,6
+ELE432,Digital Signal Processing,study basics of  Digital Signal Processing,,3,FALL,7
+CSE241,Security of Information Systems,Basics of information security,,3,FALL,7
+CSE242,Cryptography,Intro to cryptographic techniques,CSE112,3,FALL,7
+CSE363,Cloud Computing,study Cloud Computing,CSE261,3,FALL,7
+CSE344,Introduction to Cyber Security,Fundamentals of cyber security,,3,FALL,7
+CSE243,Secure Programming,Secure coding practices,CSE241,3,SPRING,8
+CSE373,Parallel Programming,study  Parallel Programming,CSE015,3,SPRING,8
+CSE446,Information & Computer Networks Security,Network security principles,CSE261,3,SPRING,8
+CSE464,Internet of things,study Internet of things,CSE261,3,SPRING,8
+CSE392,Field Training 2 in Computer Engineering,Advanced training in computer engineering,CSE291,2,SPRING,8
+CSE445,Selected Topics in Information Security,Advanced topics in info security,CSE344,3,FALL,9
+CSE493,Graduation Project 1,First part of capstone project,CSE493,3,FALL,9
+CSE447,Selected Topics in Computer Security,Advanced computer security topics,CSE344,3,SPRING,10
+CSE494,Graduation Project 2,Second part of capstone project,CSE494,3,SPRING,10

@@ -1,0 +1,27 @@
+﻿CourseCode,CourseName,Description,CreditHours,semester,level
+CHE142,Engineering Chemistry,,2,SPRING,2
+MAT121,Dynamics,,2,SPRING,2
+MAT122,Statics,,2,SPRING,2
+MAT315,Numerical Analysis,,2,SPRING,2
+PHY211,Physics II,,2,SPRING,2
+ELE115,Electrical Circuits & Measurements,,2,FALL,3
+ELE215,Electronics & Digital Circuits,,2,FALL,3
+ELE232,Fundamentals of Communication Systems,,2,FALL,3
+ELE233,Automatic Control Systems,,2,FALL,3
+ELE338,Wireless Communication Networks,,2,FALL,3
+CSE271,Introduction to Parallel Computing,,2,FALL,5
+CSE281,Image Processing,,2,FALL,5
+CSE382,Computer Graphics,,2,FALL,5
+AIE231,Neural Networks,,2,FALL,5
+CSE311,Design of Compilers,,2,FALL,5
+CSE322,Big Data Analytics 1,,2,FALL,5
+CSE335,Real Time & Embedded Systems Design,,2,FALL,5
+CSE383,Computer Vision,,2,FALL,5
+AIE322,Advanced Machine Learning,,2,SPRING,10
+AIE323,Data Mining,,2,SPRING,10
+AIE332,Deep Learning,,2,SPRING,10
+AIE351,Robotics Design,,2,SPRING,10
+CSE272,Parallel & Distributed Systems,,2,SPRING,10
+CSE425,Big Data Analytics 2,,2,SPRING,10
+CSE448,Cyber Forensics,,2,SPRING,10
+BMD311,Introduction to Bioinformatics,,2,SPRING,10
