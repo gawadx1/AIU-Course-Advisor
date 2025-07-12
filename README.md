@@ -109,11 +109,8 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Authors
 
-<<<<<<< HEAD
-* Developed by BODA @ Alia Club 🚀
 =======
 * Developed by Gawad 🚀
->>>>>>> 4b796523106eb7485543fefab4cf70783b31b783
 
 ---
 
