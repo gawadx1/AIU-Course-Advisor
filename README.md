@@ -109,7 +109,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Authors
 
-=======
+
 * Developed by Gawad 🚀
 
 ---
